@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/neck-diagnoses---primary.py
+inputModule3:
+  class: File
+  path: python/neck-diagnoses-kyphosis---primary.py
+inputModule4:
+  class: File
+  path: python/cervical-neck-diagnoses---primary.py
+inputModule5:
+  class: File
+  path: python/neck-diagnoses-spine---primary.py
+inputModule6:
+  class: File
+  path: python/neck-diagnoses-structure---primary.py
+inputModule7:
+  class: File
+  path: python/intervertebral-neck-diagnoses---primary.py
+inputModule8:
+  class: File
+  path: python/neck---primary.py
+inputModule9:
+  class: File
+  path: python/neck-diagnoses-injury---primary.py
+inputModule10:
+  class: File
+  path: python/neck-diagnoses-degeneration---primary.py
+inputModule11:
+  class: File
+  path: python/neck-diagnoses-torticollis---primary.py
+inputModule12:
+  class: File
+  path: python/spinal-neck-diagnoses---primary.py
+inputModule13:
+  class: File
+  path: python/neck-diagnoses-strain---primary.py
+inputModule14:
+  class: File
+  path: python/neck-diagnoses-muscle---primary.py
+inputModule15:
+  class: File
+  path: python/neck-diagnoses-deformity---primary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
